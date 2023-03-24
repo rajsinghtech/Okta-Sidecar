@@ -3,7 +3,7 @@
 
 ### Web Application
 - `app.py` Flask webapp on port 8080
-- `requirements.txt` Python Library`s
+- `requirements.txt` Python Libraries
 - `dockerfile` Image build
 
 ### Docker Compose
